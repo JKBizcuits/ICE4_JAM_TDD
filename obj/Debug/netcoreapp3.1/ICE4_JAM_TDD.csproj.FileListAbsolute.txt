@@ -1,0 +1,17 @@
+D:\Jacob\source\repos\ICE4_JAM_TDD\bin\Debug\netcoreapp3.1\ICE4_JAM_TDD.exe
+D:\Jacob\source\repos\ICE4_JAM_TDD\bin\Debug\netcoreapp3.1\ICE4_JAM_TDD.deps.json
+D:\Jacob\source\repos\ICE4_JAM_TDD\bin\Debug\netcoreapp3.1\ICE4_JAM_TDD.runtimeconfig.json
+D:\Jacob\source\repos\ICE4_JAM_TDD\bin\Debug\netcoreapp3.1\ICE4_JAM_TDD.runtimeconfig.dev.json
+D:\Jacob\source\repos\ICE4_JAM_TDD\bin\Debug\netcoreapp3.1\ICE4_JAM_TDD.dll
+D:\Jacob\source\repos\ICE4_JAM_TDD\bin\Debug\netcoreapp3.1\ICE4_JAM_TDD.pdb
+D:\Jacob\source\repos\ICE4_JAM_TDD\obj\Debug\netcoreapp3.1\ICE4_JAM_TDD.csprojAssemblyReference.cache
+D:\Jacob\source\repos\ICE4_JAM_TDD\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+D:\Jacob\source\repos\ICE4_JAM_TDD\obj\Debug\netcoreapp3.1\App.g.cs
+D:\Jacob\source\repos\ICE4_JAM_TDD\obj\Debug\netcoreapp3.1\ICE4_JAM_TDD_MarkupCompile.cache
+D:\Jacob\source\repos\ICE4_JAM_TDD\obj\Debug\netcoreapp3.1\ICE4_JAM_TDD_MarkupCompile.lref
+D:\Jacob\source\repos\ICE4_JAM_TDD\obj\Debug\netcoreapp3.1\MainWindow.baml
+D:\Jacob\source\repos\ICE4_JAM_TDD\obj\Debug\netcoreapp3.1\ICE4_JAM_TDD.g.resources
+D:\Jacob\source\repos\ICE4_JAM_TDD\obj\Debug\netcoreapp3.1\ICE4_JAM_TDD.AssemblyInfoInputs.cache
+D:\Jacob\source\repos\ICE4_JAM_TDD\obj\Debug\netcoreapp3.1\ICE4_JAM_TDD.AssemblyInfo.cs
+D:\Jacob\source\repos\ICE4_JAM_TDD\obj\Debug\netcoreapp3.1\ICE4_JAM_TDD.dll
+D:\Jacob\source\repos\ICE4_JAM_TDD\obj\Debug\netcoreapp3.1\ICE4_JAM_TDD.pdb

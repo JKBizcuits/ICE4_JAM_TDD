@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ICE4_JAM_TDD", "ICE4_JAM_TDD.csproj", "{48F840B8-58CD-43DF-8F25-CEB0F0D10B3B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{48F840B8-58CD-43DF-8F25-CEB0F0D10B3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48F840B8-58CD-43DF-8F25-CEB0F0D10B3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48F840B8-58CD-43DF-8F25-CEB0F0D10B3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48F840B8-58CD-43DF-8F25-CEB0F0D10B3B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D2FC4307-2C4D-4C9A-85BE-0743FFFB8DD4}
+	EndGlobalSection
+EndGlobal
